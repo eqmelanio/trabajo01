@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Idioma\bin\Debug\Capa_Entidad_Idioma.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Idioma\bin\Debug\Capa_Entidad_Idioma.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Idioma\obj\Debug\Capa_Entidad_Idioma.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Idioma\obj\Debug\Capa_Entidad_Idioma.pdb

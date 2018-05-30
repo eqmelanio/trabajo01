@@ -1,0 +1,9 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Libro\bin\Debug\Capa_Entidad_Libro.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Libro\bin\Debug\Capa_Entidad_Libro.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Libro\obj\Debug\Capa_Entidad_Libro.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Libro\obj\Debug\Capa_Entidad_Libro.pdb
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Entidad_Libro\bin\Debug\Capa_Entidad_Libro.dll
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Entidad_Libro\bin\Debug\Capa_Entidad_Libro.pdb
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Entidad_Libro\obj\Debug\Capa_Entidad_Libro.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Entidad_Libro\obj\Debug\Capa_Entidad_Libro.dll
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Entidad_Libro\obj\Debug\Capa_Entidad_Libro.pdb

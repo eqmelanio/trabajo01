@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Pais\bin\Debug\Capa_Entidad_Pais.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Pais\bin\Debug\Capa_Entidad_Pais.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Pais\obj\Debug\Capa_Entidad_Pais.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Pais\obj\Debug\Capa_Entidad_Pais.pdb

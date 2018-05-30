@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Tipo_Usuario\bin\Debug\Capa_Entidad_Tipo_Usuario.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Tipo_Usuario\bin\Debug\Capa_Entidad_Tipo_Usuario.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Tipo_Usuario\obj\Debug\Capa_Entidad_Tipo_Usuario.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Tipo_Usuario\obj\Debug\Capa_Entidad_Tipo_Usuario.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Tipo_Usuario\obj\Debug\Capa_Entidad_Tipo_Usuario.pdb

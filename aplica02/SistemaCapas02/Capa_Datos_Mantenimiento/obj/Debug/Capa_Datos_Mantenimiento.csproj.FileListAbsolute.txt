@@ -1,0 +1,13 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Datos_Mantenimiento.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Datos_Mantenimiento.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Entidad_Tipo_Usuario.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Entidad_Tipo_Usuario.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\obj\Debug\Capa_Datos_Mantenimiento.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\obj\Debug\Capa_Datos_Mantenimiento.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Datos_Mantenimiento\obj\Debug\Capa_Datos_Mantenimiento.pdb
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Datos_Mantenimiento.dll
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Datos_Mantenimiento.pdb
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Entidad_Tipo_Usuario.dll
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Datos_Mantenimiento\bin\Debug\Capa_Entidad_Tipo_Usuario.pdb
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Datos_Mantenimiento\obj\Debug\Capa_Datos_Mantenimiento.dll
+C:\Users\Alumno\Desktop\aplica02\SistemaCapas02\Capa_Datos_Mantenimiento\obj\Debug\Capa_Datos_Mantenimiento.pdb

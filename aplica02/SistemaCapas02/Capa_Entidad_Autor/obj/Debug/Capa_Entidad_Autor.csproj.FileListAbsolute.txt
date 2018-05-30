@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Autor\bin\Debug\Capa_Entidad_Autor.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Autor\bin\Debug\Capa_Entidad_Autor.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Autor\obj\Debug\Capa_Entidad_Autor.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Autor\obj\Debug\Capa_Entidad_Autor.pdb

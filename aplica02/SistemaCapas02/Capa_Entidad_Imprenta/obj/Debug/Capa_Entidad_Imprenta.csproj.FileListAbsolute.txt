@@ -1,0 +1,4 @@
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Imprenta\bin\Debug\Capa_Entidad_Imprenta.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Imprenta\bin\Debug\Capa_Entidad_Imprenta.pdb
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Imprenta\obj\Debug\Capa_Entidad_Imprenta.dll
+C:\Users\Alumno\Desktop\AplicaCapas02\SistemaCapas02\Capa_Entidad_Imprenta\obj\Debug\Capa_Entidad_Imprenta.pdb
